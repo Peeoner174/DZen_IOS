@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E951B1502090C069002AB872 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E951B14F2090C069002AB872 /* LoginViewController.swift */; };
 		E9C12B6B209070B300FB7EBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C12B6A209070B300FB7EBE /* AppDelegate.swift */; };
 		E9C12B6D209070B300FB7EBE /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C12B6C209070B300FB7EBE /* FirstViewController.swift */; };
 		E9C12B6F209070B300FB7EBE /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C12B6E209070B300FB7EBE /* SecondViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E951B14F2090C069002AB872 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		E9C12B67209070B300FB7EBE /* DZen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DZen.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9C12B6A209070B300FB7EBE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E9C12B6C209070B300FB7EBE /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				E9C12B6A209070B300FB7EBE /* AppDelegate.swift */,
 				E9C12B6C209070B300FB7EBE /* FirstViewController.swift */,
 				E9C12B6E209070B300FB7EBE /* SecondViewController.swift */,
+				E951B14F2090C069002AB872 /* LoginViewController.swift */,
 				E9C12B70209070B300FB7EBE /* Main.storyboard */,
 				E9C12B73209070B400FB7EBE /* Assets.xcassets */,
 				E9C12B75209070B400FB7EBE /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E951B1502090C069002AB872 /* LoginViewController.swift in Sources */,
 				E9C12B6F209070B300FB7EBE /* SecondViewController.swift in Sources */,
 				E9C12B6B209070B300FB7EBE /* AppDelegate.swift in Sources */,
 				E9C12B6D209070B300FB7EBE /* FirstViewController.swift in Sources */,
